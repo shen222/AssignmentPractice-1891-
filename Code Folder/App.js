@@ -1,14 +1,5 @@
 import * as React from 'react';
-import {
-  Text,
-  View,
-  StyleSheet,
-  Button,
-  Image,
-  Alert,
-  TextInput,
-  TouchableOpacity,
-} from 'react-native';
+import { Text , View, StyleSheet, Button, Image, Alert, TextInput, TouchableOpacity } from 'react-native';
 import Constants from 'expo-constants';
 
 export default function App() {
